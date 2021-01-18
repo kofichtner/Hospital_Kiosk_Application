@@ -16,3 +16,5 @@ The application also includes many features for administrators to handle these s
 <p align="center">
   <img src="https://github.com/kofichtner/Hospital_Kiosk_Application/blob/master/screenshots/BWH_map.JPG"
 </p>
+  
+[View User Manual](https://github.com/kofichtner/Hospital_Kiosk_Application/blob/master/TeamN_UserManual.pdf)
