@@ -12,3 +12,7 @@ The application also includes many features for administrators to handle these s
 * Step-by-step textual directions
 * Google map with live traffic updates for driving between hospital locations
 * Search by doctor to find directions to a specific doctor's office
+
+<p align="center">
+  <img src="https://github.com/kofichtner/Hospital_Kiosk_Application/blob/master/screenshots/BWH_map.JPG"
+</p>
