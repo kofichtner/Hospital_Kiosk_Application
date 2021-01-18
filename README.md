@@ -1,5 +1,5 @@
 # Brigham and Women's Hospital Kiosk Application
-Course: CS3733
+CS3733
 Team N
 ## Overview
 Our team's hospital kiosk application was developed for the main purpose of helping hospital visitors and patients navigate Brigham and Women’s Hospital. 
